@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578397244 source:c:\users\diana\desktop\agendacontactos\main.cpp
+	<iostream>
+	<fstream>
+

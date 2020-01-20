@@ -1,0 +1,14 @@
+Cuenta de Ahorros Banco del Pichincha
+Bienvenido Sr. Alberto Perez, por favor ingrese sus depositos mensuales desde Enero hasta Diciembre: 
+7
+8
+9
+4
+5
+6
+1
+2
+3
+40
+12
+54
